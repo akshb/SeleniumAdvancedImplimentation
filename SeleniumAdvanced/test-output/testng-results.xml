@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41002" started-at="2021-05-26T18:05:35 IST" finished-at="2021-05-26T18:06:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41002" started-at="2021-05-26T18:05:35 IST" finished-at="2021-05-26T18:06:16 IST">
+      <class name="WindowHandling.MultipleWindowHandling">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:WindowHandling.MultipleWindowHandling@d1af89]" name="beforeMethod" is-config="true" duration-ms="36387" started-at="2021-05-26T18:05:35 IST" finished-at="2021-05-26T18:06:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="swtchToAnotherWindow()[pri:0, instance:WindowHandling.MultipleWindowHandling@d1af89]" name="swtchToAnotherWindow" duration-ms="4452" started-at="2021-05-26T18:06:11 IST" finished-at="2021-05-26T18:06:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swtchToAnotherWindow -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:WindowHandling.MultipleWindowHandling@d1af89]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-05-26T18:06:16 IST" finished-at="2021-05-26T18:06:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- WindowHandling.MultipleWindowHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
